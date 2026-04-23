@@ -1,1 +1,1 @@
-**P2P Chat with Post-Quantum Cryptography**
+**Chat with Post-Quantum Cryptography**
